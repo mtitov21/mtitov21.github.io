@@ -1,0 +1,1922 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Блог Михаила Титова\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-10 21:32+0000\n"
+"PO-Revision-Date: 2018-01-14 10:49+0000\n"
+"Last-Translator: Mikhail Titov\n"
+"Language-Team: Russian (Russia)\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en\n"
+"X-Loco-Project-Id: 38511\n"
+"X-Loco-Api-Version: 1.0.18 20180111-1"
+
+#: ../404.php:6 loco:5a56871a820ee964178b4567
+msgid "404"
+msgstr "404"
+
+#: ../404.php:10 loco:5a56871a820ee964178b4568
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Похоже, в этом месте ничего не было найдено. Может быть, попробуйте поискать?"
+
+#: ../404.php:18 loco:5a56871a820ee964178b4569
+msgid "404 Page Sidebar"
+msgstr "Боковая панель страницы 404"
+
+#: ../comments.php:16 loco:5a56871a820ee964178b456a
+msgctxt "comments title"
+msgid "One Comment"
+msgstr "Один комментарий"
+
+#: ../comments.php:21 loco:5a56871a820ee964178b456b
+#, php-format
+msgctxt "plural comments title"
+msgid "%1$s comments"
+msgstr "%1$s комментарии"
+
+#: ../comments.php:50 loco:5a56871a820ee964178b456c
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: ../comments.php:58 ../comments.php:78 ../comments.php:97
+#: loco:5a56871a820ee964178b456d
+msgid "Leave a reply"
+msgstr "Оставьте ответ"
+
+#: ../comments.php:59 ../comments.php:79 ../comments.php:98
+#: loco:5a56871a820ee964178b456e
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %S"
+
+#: ../comments.php:60 ../comments.php:80 ../comments.php:99
+#: loco:5a56871a820ee964178b456f
+msgid "Cancel Reply"
+msgstr "Отменить ответ"
+
+#: ../comments.php:61 ../comments.php:81 ../comments.php:100
+#: loco:5a56871a820ee964178b4570
+msgid "Post Comment"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:65 ../comments.php:85 ../comments.php:104
+#: loco:5a56871a820ee964178b4571
+msgid "Your email address will not be published."
+msgstr "Ваш электронный адрес не будет опубликован."
+
+#: ../comments.php:68 ../comments.php:88 ../comments.php:107
+#: loco:5a56871a820ee964178b4572
+msgid "Name"
+msgstr "Имя"
+
+#: ../comments.php:69 ../comments.php:89 ../comments.php:108
+#: loco:5a56871a820ee964178b4573
+msgid "Email"
+msgstr "Email"
+
+#: ../comments.php:70 ../comments.php:90 ../comments.php:109
+#: loco:5a56871a820ee964178b4574
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: ../content-none.php:3 loco:5a56871a820ee964178b4575
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: ../content-none.php:10 loco:5a56871a820ee964178b4576
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы опубликовать свой первый пост?  <a href=\"%1$s\">Начните здесь</a>."
+
+#: ../content-none.php:14 loco:5a56871a820ee964178b4577
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Похоже ничего не найдено по вашим условиям поиска. Попробуйте повторить "
+"поиск с другими ключевыми словами."
+
+#: ../content-none.php:19 loco:5a56871a820ee964178b4578
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Кажется, мы не можем найти по такому запроу. Возможно, может помочь поиск."
+
+#: ../content.php:193 ../functions.php:701 loco:5a56871a820ee964178b4579
+msgid "Правка"
+msgstr "Правка"
+
+#: ../content.php:231 loco:5a56871a820ee964178b457a
+#, php-format
+msgid "Continue reading %s"
+msgstr "Продолжить чтение %s"
+
+#: ../content.php:240 ../inc/widgets/gplus.php:71 loco:5a56871a820ee964178b457b
+msgid "Page"
+msgstr "Cтраница"
+
+#: ../content.php:283 ../content.php:289 loco:5a56871a820ee964178b457c
+msgid "Continue Reading"
+msgstr "Продолжить чтение"
+
+#: ../footer.php:6 loco:5a56871a820ee964178b457d
+msgid "Site Footer"
+msgstr "Нижний колонтитул сайта"
+
+#: ../footer.php:41 ../footer.php:54 ../functions.php:139
+#: loco:5a56871a820ee964178b457e
+msgid "Sliding Sidebar"
+msgstr "Боковая панель"
+
+#: ../functions.php:57 loco:5a56871a820ee964178b457f
+msgid "Primary Menu"
+msgstr "Основное Меню"
+
+#: ../functions.php:58 loco:5a56871a820ee964178b4580
+msgid "Secondary Menu"
+msgstr "Вторичное меню"
+
+#: ../functions.php:129 loco:5a56871a820ee964178b4581
+msgid "Default sidebar"
+msgstr "Боковая панель по умолчанию"
+
+#: ../functions.php:131 loco:5a56871a820ee964178b4582
+msgid ""
+"This is the default sidebar in your blog, add widgets here and it will "
+"appear on all pages have this sidebar"
+msgstr ""
+"Это боковая панель по умолчанию в вашем блоге, добавьте виджеты здесь, и они "
+"появится на всех страницах в этой боковой панели"
+
+#: ../functions.php:141 loco:5a56871a820ee964178b4583
+msgid ""
+"This is the sliding side bar, it slides from the right side if you click on "
+"user info button"
+msgstr ""
+"Это скользящая боковая панель, она показывается с правой стороны при нажатии "
+"кнопки информации о пользователе"
+
+#: ../functions.php:149 loco:5a56871a820ee964178b4584
+msgid "404 page sidebar"
+msgstr "Боковая панель страницы 404"
+
+#: ../functions.php:151 loco:5a56871a820ee964178b4585
+msgid "Here you add widgets to 404 Error page"
+msgstr "Здесь разместите виджеты для страницы 404"
+
+#: ../functions.php:159 loco:5a56871a820ee964178b4586
+msgid "Footer Widgets 1"
+msgstr "Виджеты нижнего колонтитула 1"
+
+#: ../functions.php:169 loco:5a56871a820ee964178b4587
+msgid "Footer Widgets 2"
+msgstr "Виджеты нижнего колонтитула 2"
+
+#: ../functions.php:179 loco:5a56871a820ee964178b4588
+msgid "Footer Widgets 3"
+msgstr "Виджеты нижнего колонтитула 3"
+
+#: ../functions.php:375 ../inc/template-tags.php:5
+#: loco:5a56871a820ee964178b4589
+msgid "Featured"
+msgstr "Рекомендуемые"
+
+#: ../functions.php:421 ../functions.php:431 ../inc/template-tags.php:47
+#: ../inc/template-tags.php:55 loco:5a56871a820ee964178b458a
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: ../functions.php:424 loco:5a56871a820ee964178b458b
+msgctxt "Used before category names."
+msgid "In"
+msgstr "В"
+
+#: ../functions.php:434 ../inc/template-tags.php:58
+#: loco:5a56871a820ee964178b458c
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Теги"
+
+#: ../functions.php:463 loco:5a56871a820ee964178b458d
+msgid "Views"
+msgstr "Просмотры"
+
+#: ../functions.php:471 ../inc/template-tags.php:78
+#: loco:5a56871a820ee964178b458e
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: ../functions.php:471 ../inc/template-tags.php:78
+#: loco:5a56871a820ee964178b458f
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: ../functions.php:471 ../inc/template-tags.php:78
+#: loco:5a56871a820ee964178b4590
+msgid "% Comments"
+msgstr "% Комментариев"
+
+#: ../functions.php:481 ../inc/template-tags.php:69
+#: loco:5a56871a820ee964178b4591
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Полный размер"
+
+#: ../functions.php:701 loco:5a56871a820ee964178b4592
+msgid "Pingback: "
+msgstr "Пингбек:"
+
+#: ../functions.php:720 loco:5a56871a820ee964178b4593
+msgid "Reply"
+msgstr "Ответить"
+
+#: ../functions.php:742 loco:5a56871a820ee964178b4594
+msgid "Comment navigation"
+msgstr "Комментарий навигации"
+
+#: ../functions.php:745 loco:5a56871a820ee964178b4595
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: ../functions.php:749 loco:5a56871a820ee964178b4596
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: ../functions.php:897 loco:5a56871a820ee964178b4597
+msgid "Load More"
+msgstr "Загрузить ещё"
+
+#: ../functions.php:903 loco:5a56871a820ee964178b4598
+msgid "Older Posts"
+msgstr "Старые записи"
+
+#: ../functions.php:909 loco:5a56871a820ee964178b4599
+msgid "Newer Posts"
+msgstr "Новые записи"
+
+#: ../functions.php:1719 loco:5a56871a820ee964178b459a
+msgid ""
+"Your twitter application info is not set correctly in option panel, please "
+"create please login to Twitter Application Manager here https://apps.twitter."
+"com/ , create new application and new access token, then go to theme "
+"customizer social section and fill the data you got from Twitter application"
+msgstr ""
+"Ваша информация о Twitter не настроена правильно в панели параметров. "
+"Пожалуйста, создайте, пожалуйста, войдите в Диспетчер приложений Twitter по "
+"ссылке https://apps.twitter.com/, создайте новое приложение и новый токен "
+"доступа, затем перейдите раздел социальных сетей в настройках темы и "
+"заполните данные, полученные из Twitter."
+
+#: ../functions.php:1771 loco:5a56871a820ee964178b459b
+#, php-format
+msgid "an hour"
+msgid_plural "%s hours"
+msgstr[0] "час"
+msgstr[1] ""
+
+#: ../functions.php:1776 loco:5a56871a820ee964178b459d
+#, php-format
+msgid "a day"
+msgid_plural "%s days"
+msgstr[0] "день"
+msgstr[1] ""
+
+#: ../functions.php:1779 loco:5a56871a820ee964178b459f
+#, php-format
+msgid "a month"
+msgid_plural "%s months"
+msgstr[0] "месяц"
+msgstr[1] ""
+
+#: ../functions.php:1782 loco:5a56871a820ee964178b45a1
+#, php-format
+msgid "a year"
+msgid_plural "%s years"
+msgstr[0] "год"
+msgstr[1] ""
+
+#: ../header-searchform.php:2 loco:5a56871a820ee964178b45a3
+msgid "Hit enter to search"
+msgstr "Нажмите Enter для поиска"
+
+#: ../header.php:112 ../header.php:186 loco:5a56871a820ee964178b45a4
+msgctxt "Used for mobile menu."
+msgid "Menu"
+msgstr "Меню"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:70
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:579
+#: loco:5a56871a820ee964178b45a5
+msgid "Import from"
+msgstr "Импорт из"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:71
+#: loco:5a56871a820ee964178b45a6
+msgid "Imports views count (hits) from plugin"
+msgstr "Imports views count (hits) from plugin"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:71
+#: loco:5a56871a820ee964178b45a7
+msgid "to hits of"
+msgstr "хитам"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:351
+#: loco:5a56871a820ee964178b45a8
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:362
+#: loco:5a56871a820ee964178b45a9
+msgid ""
+"Use very fast (rapid) Hits Counter Script (ATTENTION! Required Wordpress "
+"version 3.4 or higher"
+msgstr ""
+"Используйте очень быстрый (быстрый) скрипт счетчиков хитов (ВНИМАНИЕ! "
+"Обязательный Wordpress версии 3.4 или выше"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:368
+#: loco:5a56871a820ee964178b45aa
+msgid "Don't count hits of admin users"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:447
+#: loco:5a56871a820ee964178b45ab
+msgid "Hits"
+msgstr "Хиты"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:561
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1566
+#: loco:5a56871a820ee964178b45ac
+msgid "Hits count"
+msgstr "Количество хитов"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:607
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:613
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:682
+#: loco:5a56871a820ee964178b45ad
+msgid "We found"
+msgstr "Мы нашли"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:607
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:682
+#: loco:5a56871a820ee964178b45ae
+msgid "no items"
+msgstr "нет товаров"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:607
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:613
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:682
+#: loco:5a56871a820ee964178b45af
+msgid "to import from WP-PostViews plugin"
+msgstr "импортировать из плагина WP-PostViews"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:608
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:683
+#: loco:5a56871a820ee964178b45b0
+msgid "Have I hice day"
+msgstr "Хорошего дня"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:613
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:675
+#: loco:5a56871a820ee964178b45b1
+msgid "items"
+msgstr "штук"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:614
+#: loco:5a56871a820ee964178b45b2
+msgid "To start import please click \"Start import\" button."
+msgstr "Чтобы начать импорт, нажмите кнопку «Начать импорт»."
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:617
+#: loco:5a56871a820ee964178b45b3
+msgid "Start import"
+msgstr "Начать импорт"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:675
+#: loco:5a56871a820ee964178b45b4
+msgid "Imported"
+msgstr "импортный"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:676
+#: loco:5a56871a820ee964178b45b5
+msgid "inserted"
+msgstr "вставленный"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:676
+#: loco:5a56871a820ee964178b45b6
+msgid "updated"
+msgstr "обновленный"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:676
+#: loco:5a56871a820ee964178b45b7
+msgid "skipped"
+msgstr "пропущено"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:677
+#: loco:5a56871a820ee964178b45b8
+msgid "Thank you for choosing our plugin."
+msgstr "Спасибо, что выбрали наш плагин."
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:747
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1410
+#: loco:5a56871a820ee964178b45b9
+msgid "Popular Posts"
+msgstr "популярные посты"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:749
+#: loco:5a56871a820ee964178b45ba
+msgid "Displays popular posts/pages counted by"
+msgstr "Отображает популярные сообщения/страницы, подсчитанные"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1560
+#: loco:5a56871a820ee964178b45bb
+msgid "Widget title"
+msgstr "Название виджета"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1564
+#: loco:5a56871a820ee964178b45bc
+msgid "Sorting algorithm (order by)"
+msgstr "Алгоритм сортировки (порядок)"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1567
+#: loco:5a56871a820ee964178b45bd
+msgid "Comments count"
+msgstr "Количество комментариев"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1568
+#: loco:5a56871a820ee964178b45be
+msgid "N * Hits count + K * Comments count"
+msgstr "N * Число хитов + K * Количество комментариев"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1576
+#: loco:5a56871a820ee964178b45bf
+msgid "Display count"
+msgstr "Количество просмотров"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1580
+#: loco:5a56871a820ee964178b45c0
+msgid "Cache lifetime (in seconds)"
+msgstr "Срок службы кэша (в секундах)"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1584
+#: loco:5a56871a820ee964178b45c1
+msgid "Posts types"
+msgstr ""
+"\n"
+"Типы сообщений"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1586
+#: loco:5a56871a820ee964178b45c2
+msgid "Posts & Pages"
+msgstr "Сообщения & Страницы"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1587
+#: loco:5a56871a820ee964178b45c3
+msgid "Posts only"
+msgstr "Только сообщения"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1588
+#: loco:5a56871a820ee964178b45c4
+msgid "Pages only"
+msgstr "Только страницы"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1593
+#: loco:5a56871a820ee964178b45c5
+msgid "Include category"
+msgstr "Включить категорию"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1603
+#: loco:5a56871a820ee964178b45c6
+msgid "Exclude posts from this category"
+msgstr "Исключить сообщения из этой категории"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1616
+#: loco:5a56871a820ee964178b45c7
+msgid "Posts publish date range"
+msgstr ""
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1618
+#: loco:5a56871a820ee964178b45c8
+msgid "Day"
+msgstr "День"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1619
+#: loco:5a56871a820ee964178b45c9
+msgid "Week"
+msgstr "Неделя"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1620
+#: loco:5a56871a820ee964178b45ca
+msgid "Month"
+msgstr "Месяц"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1621
+#: loco:5a56871a820ee964178b45cb
+msgid "3 Months"
+msgstr "3 Месяца"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1622
+#: loco:5a56871a820ee964178b45cc
+msgid "6 Months"
+msgstr "6 месяцев"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1623
+#: loco:5a56871a820ee964178b45cd
+msgid "Year"
+msgstr "Год"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1624
+#: loco:5a56871a820ee964178b45ce
+msgid "All time"
+msgstr "Все время"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1628
+#: loco:5a56871a820ee964178b45cf
+msgid "Exclude Posts/Pages IDs (sep. by comma)"
+msgstr "Исключить идентификаторы сообщений/страниц (по запятой)"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1632
+#: loco:5a56871a820ee964178b45d0
+msgid "Custom CSS (remove if unneeded)"
+msgstr ""
+"\n"
+"Пользовательский CSS (удалить, если не требуется)"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1638
+#: loco:5a56871a820ee964178b45d1
+msgid "HTML of one element/item"
+msgstr "HTML одного элемента/элемента"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1638
+#: loco:5a56871a820ee964178b45d2
+msgid "inside tag"
+msgstr "внутри тега"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1640
+#: loco:5a56871a820ee964178b45d3
+msgid "You can use this placeholders"
+msgstr "Вы можете использовать эти заполнители"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1642
+#: loco:5a56871a820ee964178b45d4
+msgid "Post ID"
+msgstr "Почтовый идентификатор"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1643
+#: loco:5a56871a820ee964178b45d5
+msgid "Post title"
+msgstr "Заголовок поста"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1644
+#: loco:5a56871a820ee964178b45d6
+msgid "Post title, where"
+msgstr "Заголовок сообщения, где"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1644
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1645
+#: loco:5a56871a820ee964178b45d7
+msgid "is words count"
+msgstr "число слов"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1644
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1645
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1650
+#: loco:5a56871a820ee964178b45d8
+msgid "For example"
+msgstr "Например"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1645
+#: loco:5a56871a820ee964178b45d9
+msgid "Post excerpt, where"
+msgstr "Сообщение выдержки, где"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1645
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1650
+#: loco:5a56871a820ee964178b45da
+msgid "or"
+msgstr "или"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1646
+#: loco:5a56871a820ee964178b45db
+msgid "Post author name"
+msgstr "Имя автора сообщения"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1647
+#: loco:5a56871a820ee964178b45dc
+msgid "Post author link"
+msgstr "Ссылка для автора"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1648
+#: loco:5a56871a820ee964178b45dd
+msgid "Post link"
+msgstr "Почтовая ссылка"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1649
+#: loco:5a56871a820ee964178b45de
+msgid "Post date"
+msgstr "Дата публикации"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1650
+#: loco:5a56871a820ee964178b45df
+msgid "Post thumbnail with size"
+msgstr "Миниатюра сообщения с размером"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1651
+#: loco:5a56871a820ee964178b45e0
+msgid "Links to post categories with"
+msgstr "Ссылки для публикации категорий с"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1651
+#: loco:5a56871a820ee964178b45e1
+msgid "as separator"
+msgstr "как разделитель"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1652
+#: loco:5a56871a820ee964178b45e2
+msgid "Post hits, counted by this plugin"
+msgstr "Почтовые хиты, подсчитанные этим плагином"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1653
+#: loco:5a56871a820ee964178b45e3
+msgid "Post comments count"
+msgstr "Количество комментариев"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1657
+#: loco:5a56871a820ee964178b45e4
+msgid "Date format"
+msgstr ""
+"Формат даты\n"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1657
+#: loco:5a56871a820ee964178b45e5
+msgid "for more info see"
+msgstr "для получения дополнительной информации см."
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1657
+#: loco:5a56871a820ee964178b45e6
+msgid "date() manual"
+msgstr "дата () руководство"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1661
+#: loco:5a56871a820ee964178b45e7
+msgid "Categories separator (if more than one)"
+msgstr "Разделитель категорий (если несколько)"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1665
+#: loco:5a56871a820ee964178b45e8
+msgid "Hits count format"
+msgstr "Формат отсчета хитов"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1741
+#: loco:5a56871a820ee964178b45e9
+msgid "Any"
+msgstr "Любые"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1742
+#: loco:5a56871a820ee964178b45ea
+msgid "Current Category / Any"
+msgstr "Текущая категория / Любая"
+
+#: ../inc/ajax-hits-counter/ajax-hits-counter.php:1743
+#: ../inc/widgets/instaram_slider.php:284 loco:5a56871a820ee964178b45eb
+msgid "None"
+msgstr "Никто"
+
+#: ../inc/customizer.php:13 loco:5a56871a820ee964178b45ec
+msgid "Layout"
+msgstr "раскладка"
+
+#: ../inc/customizer.php:18 loco:5a56871a820ee964178b45ed
+msgid "Header Style"
+msgstr "Стиль заголовка"
+
+#: ../inc/customizer.php:23 loco:5a56871a820ee964178b45ee
+msgid "Logo Style"
+msgstr "Стиль логотипа"
+
+#: ../inc/customizer.php:28 loco:5a56871a820ee964178b45ef
+msgid "General Style"
+msgstr "Общий стиль"
+
+#: ../inc/customizer.php:33 loco:5a56871a820ee964178b45f0
+msgid "Typography"
+msgstr "Типография"
+
+#: ../inc/customizer.php:37 loco:5a56871a820ee964178b45f1
+msgid "Social Settings"
+msgstr "Социальные настройки"
+
+#: ../inc/customizer.php:42 loco:5a56871a820ee964178b45f2
+msgid "Add Header/Footer Content"
+msgstr "Добавить содержимое заголовка/нижнего колонтитула"
+
+#: ../inc/customizer.php:47 loco:5a56871a820ee964178b45f3
+msgid "Facebook Comments"
+msgstr "Комментарии Facebook"
+
+#: ../inc/customizer.php:52 loco:5a56871a820ee964178b45f4
+msgid "Background Image"
+msgstr "Изображение на заднем плане"
+
+#: ../inc/customizer.php:78 loco:5a56871a820ee964178b45f5
+msgid "Tagline Place"
+msgstr "Помимо названия"
+
+#: ../inc/customizer.php:83 loco:5a56871a820ee964178b45f6
+msgid "Beside Title"
+msgstr ""
+
+#: ../inc/customizer.php:84 loco:5a56871a820ee964178b45f7
+msgid "Below Title"
+msgstr ""
+
+#: ../inc/customizer.php:85 loco:5a56871a820ee964178b45f8
+msgid "Hide"
+msgstr ""
+
+#: ../inc/customizer.php:101 loco:5a56871a820ee964178b45f9
+msgid ""
+"Site Description - Few words about your blog to introducte it to search "
+"engines and social networks"
+msgstr ""
+
+#: ../inc/customizer.php:116 loco:5a56871a820ee964178b45fa
+msgid "Footer Credits Text"
+msgstr ""
+
+#: ../inc/customizer.php:132 loco:5a56871a820ee964178b45fb
+msgid "Site Default Image for Share"
+msgstr ""
+
+#: ../inc/customizer.php:147 loco:5a56871a820ee964178b45fc
+msgid "Facebook App ID"
+msgstr ""
+
+#: ../inc/customizer.php:162 loco:5a56871a820ee964178b45fd
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: ../inc/customizer.php:176 loco:5a56871a820ee964178b45fe
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: ../inc/customizer.php:190 loco:5a56871a820ee964178b45ff
+msgid "Twitter Access Token"
+msgstr ""
+
+#: ../inc/customizer.php:204 loco:5a56871a820ee964178b4600
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: ../inc/customizer.php:222 loco:5a56871a820ee964178b4601
+msgid " Share"
+msgstr ""
+
+#: ../inc/customizer.php:228 ../inc/customizer.php:307
+#: ../inc/customizer.php:1355 ../inc/customizer.php:2130
+#: ../inc/customizer.php:2151 ../inc/customizer.php:2195
+#: ../inc/customizer.php:2223 ../inc/customizer.php:2306
+#: ../inc/customizer.php:2360 ../inc/customizer.php:2379
+#: ../inc/customizer.php:2398 ../inc/customizer.php:2453
+#: ../inc/customizer.php:2472 ../inc/customizer.php:2491
+#: ../inc/customizer.php:2530 ../inc/customizer.php:2588
+#: ../inc/customizer.php:2607 ../inc/customizer.php:2626
+#: ../inc/customizer.php:2645 ../inc/customizer.php:2664
+#: ../inc/customizer.php:2683 ../inc/customizer.php:2702
+#: ../inc/customizer.php:2721 ../inc/postoptions.php:120
+#: ../inc/postoptions.php:130 ../inc/postoptions.php:140
+#: ../inc/postoptions.php:150 ../inc/postoptions.php:204
+#: ../inc/postoptions.php:214 ../inc/postoptions.php:224
+#: ../inc/postoptions.php:234 loco:5a56871a820ee964178b4602
+msgid "Yes"
+msgstr "Да"
+
+#: ../inc/customizer.php:229 ../inc/customizer.php:308
+#: ../inc/customizer.php:1356 ../inc/customizer.php:2131
+#: ../inc/customizer.php:2152 ../inc/customizer.php:2196
+#: ../inc/customizer.php:2222 ../inc/customizer.php:2307
+#: ../inc/customizer.php:2361 ../inc/customizer.php:2380
+#: ../inc/customizer.php:2399 ../inc/customizer.php:2454
+#: ../inc/customizer.php:2473 ../inc/customizer.php:2492
+#: ../inc/customizer.php:2531 ../inc/customizer.php:2589
+#: ../inc/customizer.php:2608 ../inc/customizer.php:2627
+#: ../inc/customizer.php:2646 ../inc/customizer.php:2665
+#: ../inc/customizer.php:2684 ../inc/customizer.php:2703
+#: ../inc/customizer.php:2722 ../inc/postoptions.php:121
+#: ../inc/postoptions.php:131 ../inc/postoptions.php:141
+#: ../inc/postoptions.php:149 ../inc/postoptions.php:205
+#: ../inc/postoptions.php:215 ../inc/postoptions.php:225
+#: ../inc/postoptions.php:235 loco:5a56871a820ee964178b4603
+msgid "No"
+msgstr "Нет"
+
+#: ../inc/customizer.php:301 loco:5a56871a820ee964178b4604
+msgid "Use HTML5"
+msgstr ""
+
+#: ../inc/customizer.php:379 loco:5a56871a820ee964178b4605
+msgid "Site Logo"
+msgstr ""
+
+#: ../inc/customizer.php:393 loco:5a56871a820ee964178b4606
+msgid "Retina Logo ( Double size as default logo )"
+msgstr ""
+
+#: ../inc/customizer.php:407 loco:5a56871a820ee964178b4607
+msgid "Logo Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:519 loco:5a56871a820ee964178b4608
+msgid "Tagline Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:633 loco:5a56871a820ee964178b4609
+msgid "Header User Avatar"
+msgstr ""
+
+#: ../inc/customizer.php:648 loco:5a56871a820ee964178b460a
+msgid "Header Background"
+msgstr ""
+
+#: ../inc/customizer.php:685 loco:5a56871a820ee964178b460b
+msgid "Header Background Style"
+msgstr ""
+
+#: ../inc/customizer.php:691 loco:5a56871a820ee964178b460c
+msgid "Single"
+msgstr ""
+
+#: ../inc/customizer.php:692 loco:5a56871a820ee964178b460d
+msgid "Tiled"
+msgstr ""
+
+#: ../inc/customizer.php:693 loco:5a56871a820ee964178b460e
+msgid "Cover"
+msgstr ""
+
+#: ../inc/customizer.php:766 loco:5a56871a820ee964178b460f
+msgid "Header background Color"
+msgstr ""
+
+#: ../inc/customizer.php:811 loco:5a56871a820ee964178b4610
+msgid "Header Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:856 loco:5a56871a820ee964178b4611
+msgid "Header Text Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:901 loco:5a56871a820ee964178b4612
+msgid "Top Menu Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:947 loco:5a56871a820ee964178b4613
+msgid "Top Menu Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:993 loco:5a56871a820ee964178b4614
+msgid "Top Menu Text Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:1013 loco:5a56871a820ee964178b4615
+msgid "Fav Icon"
+msgstr ""
+
+#: ../inc/customizer.php:1058 loco:5a56871a820ee964178b4616
+msgid "Site Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1105 loco:5a56871a820ee964178b4617
+msgid "Content Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1128 loco:5a56871a820ee964178b4618
+msgid "Main Color"
+msgstr ""
+
+#: ../inc/customizer.php:1172 loco:5a56871a820ee964178b4619
+msgid "Main Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:1217 loco:5a56871a820ee964178b461a
+msgid "Titles Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:1245 loco:5a56871a820ee964178b461b
+msgid "Enable Custom CSS Code"
+msgstr ""
+
+#: ../inc/customizer.php:1261 loco:5a56871a820ee964178b461c
+msgid "Add Custom CSS Code"
+msgstr ""
+
+#: ../inc/customizer.php:1285 loco:5a56871a820ee964178b461d
+msgid "Enable Custom JS Code"
+msgstr ""
+
+#: ../inc/customizer.php:1300 loco:5a56871a820ee964178b461e
+msgid "Add Custom JS Code"
+msgstr ""
+
+#: ../inc/customizer.php:1319 loco:5a56871a820ee964178b461f
+msgid "Add Header Content Code"
+msgstr ""
+
+#: ../inc/customizer.php:1334 loco:5a56871a820ee964178b4620
+msgid "Add Footer Content Code"
+msgstr ""
+
+#: ../inc/customizer.php:1350 loco:5a56871a820ee964178b4621
+msgid "Load Fonts Locally? (don't load from google fonts CDN)"
+msgstr ""
+
+#: ../inc/customizer.php:1369 loco:5a56871a820ee964178b4622
+msgid "Site Main Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:1447 loco:5a56871a820ee964178b4623
+msgid "Menu Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:1526 loco:5a56871a820ee964178b4624
+msgid "Blog List Post Title Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:1605 loco:5a56871a820ee964178b4625
+msgid "Single Post Title Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:1684 loco:5a56871a820ee964178b4626
+msgid "Meta Info Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:1763 loco:5a56871a820ee964178b4627
+msgid "Widget Title Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:1842 loco:5a56871a820ee964178b4628
+msgid "Blog Content Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:1982 loco:5a56871a820ee964178b4629
+msgid "Headlines Font Type"
+msgstr ""
+
+#: ../inc/customizer.php:2103 ../inc/postoptions.php:375
+#: loco:5a56871a820ee964178b462a
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../inc/customizer.php:2108 ../inc/postoptions.php:380
+#: loco:5a56871a820ee964178b462b
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/customizer.php:2109 ../inc/postoptions.php:381
+#: loco:5a56871a820ee964178b462c
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/customizer.php:2110 ../inc/postoptions.php:382
+#: loco:5a56871a820ee964178b462d
+msgid "No Sidebar"
+msgstr ""
+
+#: ../inc/customizer.php:2125 loco:5a56871a820ee964178b462e
+msgid "Sticky Menu?"
+msgstr ""
+
+#: ../inc/customizer.php:2146 loco:5a56871a820ee964178b462f
+msgid "Sticky Logo at mobile"
+msgstr ""
+
+#: ../inc/customizer.php:2167 loco:5a56871a820ee964178b4630
+msgid "Default Blog Style"
+msgstr ""
+
+#: ../inc/customizer.php:2172 ../inc/fonts.php:18 ../inc/postoptions.php:305
+#: ../inc/widgets/about.php:91 loco:5a56871a820ee964178b4631
+msgid "Default"
+msgstr ""
+
+#: ../inc/customizer.php:2173 ../inc/postoptions.php:306
+#: loco:5a56871a820ee964178b4632
+msgid "Banners First"
+msgstr ""
+
+#: ../inc/customizer.php:2174 ../inc/postoptions.php:307
+#: loco:5a56871a820ee964178b4633
+msgid "Masonry"
+msgstr ""
+
+#: ../inc/customizer.php:2175 ../inc/postoptions.php:308
+#: loco:5a56871a820ee964178b4634
+msgid "List"
+msgstr ""
+
+#: ../inc/customizer.php:2190 loco:5a56871a820ee964178b4635
+msgid "Show Post Content"
+msgstr ""
+
+#: ../inc/customizer.php:2217 loco:5a56871a820ee964178b4636
+msgid "Show Post Content With Formatting at blog list"
+msgstr ""
+
+#: ../inc/customizer.php:2246 loco:5a56871a820ee964178b4637
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../inc/customizer.php:2252 loco:5a56871a820ee964178b4638
+msgid "Enabled"
+msgstr ""
+
+#: ../inc/customizer.php:2253 loco:5a56871a820ee964178b4639
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/customizer.php:2301 loco:5a56871a820ee964178b463a
+msgid "Show Continue Reading Button"
+msgstr ""
+
+#: ../inc/customizer.php:2320 loco:5a56871a820ee964178b463b
+msgid "Continue Reading Button Text"
+msgstr ""
+
+#: ../inc/customizer.php:2335 ../inc/postoptions.php:287
+#: loco:5a56871a820ee964178b463c
+msgid "Pagination Style"
+msgstr ""
+
+#: ../inc/customizer.php:2340 ../inc/postoptions.php:293
+#: loco:5a56871a820ee964178b463d
+msgid "Older/Newer Links"
+msgstr ""
+
+#: ../inc/customizer.php:2341 ../inc/postoptions.php:294
+#: loco:5a56871a820ee964178b463e
+msgid "Numerical"
+msgstr ""
+
+#: ../inc/customizer.php:2342 ../inc/postoptions.php:295
+#: loco:5a56871a820ee964178b463f
+msgid "Ajax"
+msgstr ""
+
+#: ../inc/customizer.php:2355 loco:5a56871a820ee964178b4640
+msgid "Crop Blog Banners in Blog List"
+msgstr ""
+
+#: ../inc/customizer.php:2374 loco:5a56871a820ee964178b4641
+msgid "Crop Gallery Images in Blog List"
+msgstr ""
+
+#: ../inc/customizer.php:2393 loco:5a56871a820ee964178b4642
+msgid "Crop Single Page Image"
+msgstr ""
+
+#: ../inc/customizer.php:2429 loco:5a56871a820ee964178b4643
+msgid "Featured Image Position at Single Posts/Pages"
+msgstr ""
+
+#: ../inc/customizer.php:2434 loco:5a56871a820ee964178b4644
+msgid "Above Title"
+msgstr ""
+
+#: ../inc/customizer.php:2435 loco:5a56871a820ee964178b4645
+msgid "Under Title"
+msgstr ""
+
+#: ../inc/customizer.php:2448 ../inc/postoptions.php:135
+#: ../inc/postoptions.php:229 loco:5a56871a820ee964178b4646
+msgid "Show Author Box"
+msgstr ""
+
+#: ../inc/customizer.php:2467 loco:5a56871a820ee964178b4647
+msgid "Show Posts Navigation"
+msgstr ""
+
+#: ../inc/customizer.php:2486 loco:5a56871a820ee964178b4648
+msgid "Show Related Posts"
+msgstr ""
+
+#: ../inc/customizer.php:2505 loco:5a56871a820ee964178b4649
+msgid "Related Posts According to"
+msgstr ""
+
+#: ../inc/customizer.php:2510 loco:5a56871a820ee964178b464a
+msgid "Categories"
+msgstr "Категории"
+
+#: ../inc/customizer.php:2511 ../inc/widgets/postlist.php:95
+#: loco:5a56871a820ee964178b464b
+msgid "Tags"
+msgstr "Теги"
+
+#: ../inc/customizer.php:2512 loco:5a56871a820ee964178b464c
+msgid "Author"
+msgstr "Автор"
+
+#: ../inc/customizer.php:2525 ../inc/postoptions.php:125
+#: ../inc/postoptions.php:219 loco:5a56871a820ee964178b464d
+msgid "Show Share Icons"
+msgstr ""
+
+#: ../inc/customizer.php:2544 loco:5a56871a820ee964178b464e
+msgid "Share Icons Position"
+msgstr ""
+
+#: ../inc/customizer.php:2549 loco:5a56871a820ee964178b464f
+msgid "After Post Content"
+msgstr ""
+
+#: ../inc/customizer.php:2550 loco:5a56871a820ee964178b4650
+msgid "Before Post Content"
+msgstr ""
+
+#: ../inc/customizer.php:2551 loco:5a56871a820ee964178b4651
+msgid "After & Before Post Content"
+msgstr ""
+
+#: ../inc/customizer.php:2564 loco:5a56871a820ee964178b4652
+msgid "Show Share Icons Action"
+msgstr ""
+
+#: ../inc/customizer.php:2569 loco:5a56871a820ee964178b4653
+msgid "On Hovering/Mouse Over"
+msgstr ""
+
+#: ../inc/customizer.php:2570 loco:5a56871a820ee964178b4654
+msgid "Always"
+msgstr ""
+
+#: ../inc/customizer.php:2583 loco:5a56871a820ee964178b4655
+msgid "Show views number"
+msgstr ""
+
+#: ../inc/customizer.php:2602 ../inc/postoptions.php:209
+#: loco:5a56871a820ee964178b4656
+msgid "Show Meta Info"
+msgstr ""
+
+#: ../inc/customizer.php:2621 loco:5a56871a820ee964178b4657
+msgid "Show Categories in Post Meta"
+msgstr ""
+
+#: ../inc/customizer.php:2640 loco:5a56871a820ee964178b4658
+msgid "Show Tags in Post Meta"
+msgstr ""
+
+#: ../inc/customizer.php:2659 loco:5a56871a820ee964178b4659
+msgid "Show Date in Post Meta"
+msgstr ""
+
+#: ../inc/customizer.php:2678 loco:5a56871a820ee964178b465a
+msgid "Show Comments Number in Post Meta"
+msgstr ""
+
+#: ../inc/customizer.php:2697 loco:5a56871a820ee964178b465b
+msgid "Show Author in Post Meta"
+msgstr ""
+
+#: ../inc/customizer.php:2716 loco:5a56871a820ee964178b465c
+msgid "Show Reading Progress Bar"
+msgstr ""
+
+#: ../inc/customizer.php:2748 loco:5a56871a820ee964178b465d
+msgid "Background Repeat"
+msgstr ""
+
+#: ../inc/customizer.php:2752 loco:5a56871a820ee964178b465e
+msgid "No Repeat"
+msgstr ""
+
+#: ../inc/customizer.php:2753 loco:5a56871a820ee964178b465f
+msgid "Tile"
+msgstr ""
+
+#: ../inc/customizer.php:2754 loco:5a56871a820ee964178b4660
+msgid "Tile Horizontally"
+msgstr ""
+
+#: ../inc/customizer.php:2755 loco:5a56871a820ee964178b4661
+msgid "Tile Vertically"
+msgstr ""
+
+#: ../inc/customizer.php:2766 loco:5a56871a820ee964178b4662
+msgid "Background Position"
+msgstr ""
+
+#: ../inc/customizer.php:2770 loco:5a56871a820ee964178b4663
+msgid "Left"
+msgstr ""
+
+#: ../inc/customizer.php:2771 loco:5a56871a820ee964178b4664
+msgid "Center"
+msgstr ""
+
+#: ../inc/customizer.php:2772 loco:5a56871a820ee964178b4665
+msgid "Right"
+msgstr ""
+
+#: ../inc/customizer.php:2783 loco:5a56871a820ee964178b4666
+msgid "Background Attachment"
+msgstr ""
+
+#: ../inc/customizer.php:2787 loco:5a56871a820ee964178b4667
+msgid "Fixed"
+msgstr ""
+
+#: ../inc/customizer.php:2788 loco:5a56871a820ee964178b4668
+msgid "Scroll"
+msgstr ""
+
+#: ../inc/fonts.php:19 loco:5a56871a820ee964178b4669
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../inc/fonts.php:21 loco:5a56871a820ee964178b466a
+msgid "Google Fonts"
+msgstr ""
+
+#: ../inc/fonts.php:126 loco:5a56871a820ee964178b466b
+msgid "All"
+msgstr ""
+
+#: ../inc/fonts.php:127 loco:5a56871a820ee964178b466c
+msgid "Cyrillic"
+msgstr ""
+
+#: ../inc/fonts.php:128 loco:5a56871a820ee964178b466d
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../inc/fonts.php:129 loco:5a56871a820ee964178b466e
+msgid "Devanagari"
+msgstr ""
+
+#: ../inc/fonts.php:130 loco:5a56871a820ee964178b466f
+msgid "Greek"
+msgstr ""
+
+#: ../inc/fonts.php:131 loco:5a56871a820ee964178b4670
+msgid "Greek Extended"
+msgstr ""
+
+#: ../inc/fonts.php:132 loco:5a56871a820ee964178b4671
+msgid "Khmer"
+msgstr ""
+
+#: ../inc/fonts.php:133 loco:5a56871a820ee964178b4672
+msgid "Latin"
+msgstr ""
+
+#: ../inc/fonts.php:134 loco:5a56871a820ee964178b4673
+msgid "Latin Extended"
+msgstr ""
+
+#: ../inc/fonts.php:135 loco:5a56871a820ee964178b4674
+msgid "Vietnamese"
+msgstr ""
+
+#: ../inc/fonts.php:195 loco:5a56871a820ee964178b4675
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: ../inc/fonts.php:199 loco:5a56871a820ee964178b4676
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: ../inc/fonts.php:203 loco:5a56871a820ee964178b4677
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: ../inc/formats/boxes/format-audio.php:2 loco:5a56871a820ee964178b4678
+msgid "Audio URL (oEmbed) or Embed Code"
+msgstr ""
+
+#: ../inc/formats/boxes/format-gallery.php:5 loco:5a56871a820ee964178b4679
+msgid "Gallery Images"
+msgstr ""
+
+#: ../inc/formats/boxes/format-gallery.php:10 loco:5a56871a820ee964178b467a
+msgid "Shortcode"
+msgstr ""
+
+#: ../inc/formats/boxes/format-gallery.php:16 loco:5a56871a820ee964178b467b
+msgid "Images uploaded to this post"
+msgstr ""
+
+#: ../inc/formats/boxes/format-gallery.php:69 loco:5a56871a820ee964178b467c
+msgid "Upload Images"
+msgstr ""
+
+#: ../inc/formats/boxes/format-link.php:2 loco:5a56871a820ee964178b467d
+msgid "URL"
+msgstr ""
+
+#: ../inc/formats/boxes/format-quote.php:3 loco:5a56871a820ee964178b467e
+msgid "Quote Author Name"
+msgstr ""
+
+#: ../inc/formats/boxes/format-quote.php:7 loco:5a56871a820ee964178b467f
+msgid "Quote Author URL"
+msgstr ""
+
+#: ../inc/formats/boxes/format-quote.php:11 loco:5a56871a820ee964178b4680
+msgid "Quote Content"
+msgstr ""
+
+#: ../inc/formats/boxes/format-status.php:2 loco:5a56871a820ee964178b4681
+msgid "Write a status or paste a status url from Facebook or Twitter"
+msgstr ""
+
+#: ../inc/formats/boxes/format-video.php:2 loco:5a56871a820ee964178b4682
+msgid "Video URL (oEmbed) or Embed Code"
+msgstr ""
+
+#: ../inc/postoptions.php:10 loco:5a56871a820ee964178b4683
+#, php-format
+msgid "%s - Post Options."
+msgstr ""
+
+#: ../inc/postoptions.php:12 loco:5a56871a820ee964178b4684
+#, php-format
+msgid "%s - Page Options."
+msgstr ""
+
+#: ../inc/postoptions.php:14 loco:5a56871a820ee964178b4685
+#, php-format
+msgid "%s - Blog Template Options."
+msgstr ""
+
+#: ../inc/postoptions.php:17 loco:5a56871a820ee964178b4686
+#, php-format
+msgid "%s - General Page Options."
+msgstr ""
+
+#: ../inc/postoptions.php:115 ../inc/postoptions.php:199
+#: loco:5a56871a820ee964178b4687
+msgid "Show Title"
+msgstr ""
+
+#: ../inc/postoptions.php:119 ../inc/postoptions.php:129
+#: ../inc/postoptions.php:139 ../inc/postoptions.php:203
+#: ../inc/postoptions.php:213 ../inc/postoptions.php:223
+#: ../inc/postoptions.php:233 ../inc/postoptions.php:292
+#: ../inc/postoptions.php:304 ../inc/postoptions.php:379
+#: loco:5a56871a820ee964178b4688
+msgid "Same as site options"
+msgstr ""
+
+#: ../inc/postoptions.php:145 loco:5a56871a820ee964178b4689
+msgid "Enable Facebook Comments"
+msgstr ""
+
+#: ../inc/postoptions.php:239 loco:5a56871a820ee964178b468a
+msgid "Custom Description"
+msgstr ""
+
+#: ../inc/postoptions.php:299 loco:5a56871a820ee964178b468b
+msgid "Blog Style"
+msgstr ""
+
+#: ../inc/postoptions.php:313 ../inc/widgets/postlist.php:87
+#: loco:5a56871a820ee964178b468c
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/postoptions.php:319 ../inc/widgets/postlist.php:84
+#: loco:5a56871a820ee964178b468d
+msgid "Category"
+msgstr ""
+
+#: ../inc/template-tags.php:11 loco:5a56871a820ee964178b468e
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: ../inc/template-tags.php:32 loco:5a56871a820ee964178b468f
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: ../inc/template-tags.php:41 loco:5a56871a820ee964178b4690
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: ../inc/template-tags.php:50 loco:5a56871a820ee964178b4691
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: ../inc/widgets/about.php:65 loco:5a56871a820ee964178b4692
+msgid "About Me"
+msgstr "Обо мне"
+
+#: ../inc/widgets/about.php:69 ../inc/widgets/fbpage.php:49
+#: ../inc/widgets/gplus.php:58 ../inc/widgets/postlist.php:61
+#: ../inc/widgets/social.php:76 ../inc/widgets/tweets.php:61
+#: loco:5a56871a820ee964178b4693
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../inc/widgets/about.php:73 loco:5a56871a820ee964178b4694
+msgid "Image"
+msgstr "Изображение"
+
+#: ../inc/widgets/about.php:76 loco:5a56871a820ee964178b4695
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: ../inc/widgets/about.php:79 loco:5a56871a820ee964178b4696
+msgid "Image Shape"
+msgstr "орма изображения"
+
+#: ../inc/widgets/about.php:82 loco:5a56871a820ee964178b4697
+msgid "Rounded"
+msgstr "закругленный"
+
+#: ../inc/widgets/about.php:84 loco:5a56871a820ee964178b4698
+msgid "Circle"
+msgstr "Круг"
+
+#: ../inc/widgets/about.php:88 loco:5a56871a820ee964178b4699
+msgid "Image Size"
+msgstr "Размер Изображения"
+
+#: ../inc/widgets/about.php:93 loco:5a56871a820ee964178b469a
+msgid "Large"
+msgstr "большой"
+
+#: ../inc/widgets/about.php:95 loco:5a56871a820ee964178b469b
+msgid "Medium"
+msgstr "Средний"
+
+#: ../inc/widgets/about.php:97 loco:5a56871a820ee964178b469c
+msgid "Small"
+msgstr "Маленький"
+
+#: ../inc/widgets/about.php:101 loco:5a56871a820ee964178b469d
+msgid "Content:"
+msgstr "Содержание:"
+
+#: ../inc/widgets/fbpage.php:44 loco:5a56871a820ee964178b469e
+msgid "Facebook Page"
+msgstr "Страница на фэйсбуке"
+
+#: ../inc/widgets/fbpage.php:53 loco:5a56871a820ee964178b469f
+msgid "Facebook Page URL"
+msgstr "URL страницы в Facebook"
+
+#: ../inc/widgets/gplus.php:53 loco:5a56871a820ee964178b46a0
+msgid "Google+"
+msgstr ""
+
+#: ../inc/widgets/gplus.php:62 loco:5a56871a820ee964178b46a1
+msgid "Google+ URL"
+msgstr ""
+
+#: ../inc/widgets/gplus.php:66 loco:5a56871a820ee964178b46a2
+msgid "Profile Type"
+msgstr ""
+
+#: ../inc/widgets/gplus.php:69 loco:5a56871a820ee964178b46a3
+msgid "Person"
+msgstr "Человек"
+
+#: ../inc/widgets/gplus.php:73 loco:5a56871a820ee964178b46a4
+msgid "Community"
+msgstr "Сообщество"
+
+#: ../inc/widgets/instaram_slider.php:36 ../inc/widgets/instaram_slider.php:175
+#: loco:5a56871a820ee964178b46a5
+msgid "Instagram Slider"
+msgstr "Ползунок Instagram"
+
+#: ../inc/widgets/instaram_slider.php:38 loco:5a56871a820ee964178b46a6
+msgid "A widget that displays a slider with instagram images "
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:73 loco:5a56871a820ee964178b46a7
+msgid "Instagram Slider - Shortcode Generator"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:75 loco:5a56871a820ee964178b46a8
+msgid ""
+"1. Drag Instagram Slider widget here. 2. Fill in the fields and hit save. 3. "
+"Copy the shortocde generated at the bottom of the widget form and use it on "
+"posts or pages."
+msgstr ""
+"1. Перетащите виджет Instagram Slider. 2. Заполните поля и нажмите "
+"«Сохранить». 3. Скопируйте shortocde, сгенерированный в нижней части формы "
+"виджетов, и используйте его на сообщениях или страницах."
+
+#: ../inc/widgets/instaram_slider.php:205 loco:5a56871a820ee964178b46a9
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:209 loco:5a56871a820ee964178b46aa
+msgid "Search Instagram for:"
+msgstr "Поиск Instagram для:"
+
+#: ../inc/widgets/instaram_slider.php:210 loco:5a56871a820ee964178b46ab
+msgid "Username:"
+msgstr "Имя пользователя:"
+
+#: ../inc/widgets/instaram_slider.php:211 loco:5a56871a820ee964178b46ac
+msgid "Hashtag:"
+msgstr "Хэштег:"
+
+#: ../inc/widgets/instaram_slider.php:211 loco:5a56871a820ee964178b46ad
+msgid "without # sign"
+msgstr "без знака #"
+
+#: ../inc/widgets/instaram_slider.php:214 loco:5a56871a820ee964178b46ae
+msgid "Block Users"
+msgstr "Заблокировать пользователей"
+
+#: ../inc/widgets/instaram_slider.php:216 loco:5a56871a820ee964178b46af
+msgid "Enter usernames separated by commas whose images you don't want to show"
+msgstr ""
+"Введите имена пользователей, разделенные запятыми, изображения которых вы не "
+"хотите показывать"
+
+#: ../inc/widgets/instaram_slider.php:218 loco:5a56871a820ee964178b46b0
+msgid "Save and Display Images from Media Library: "
+msgstr "Сохранение и отображение изображений из медиа-библиотеки:"
+
+#: ../inc/widgets/instaram_slider.php:221 loco:5a56871a820ee964178b46b1
+msgid " Turn on to save Instagram Images into WordPress media library."
+msgstr "Включите сохранение изображений Instagram в медиатеке WordPress."
+
+#: ../inc/widgets/instaram_slider.php:231 loco:5a56871a820ee964178b46b2
+msgid "Number of images to show:"
+msgstr "Количество изображений для отображения:"
+
+#: ../inc/widgets/instaram_slider.php:236 loco:5a56871a820ee964178b46b3
+msgid "Check for new images every:"
+msgstr "Проверяйте новые изображения каждый раз:"
+
+#: ../inc/widgets/instaram_slider.php:238 loco:5a56871a820ee964178b46b4
+msgid "hours"
+msgstr "часов"
+
+#: ../inc/widgets/instaram_slider.php:242 loco:5a56871a820ee964178b46b5
+msgid "Template"
+msgstr "шаблон"
+
+#: ../inc/widgets/instaram_slider.php:244 loco:5a56871a820ee964178b46b6
+msgid "Slider - Normal"
+msgstr "Ползунок - Обычный"
+
+#: ../inc/widgets/instaram_slider.php:245 loco:5a56871a820ee964178b46b7
+msgid "Slider - Overlay Text"
+msgstr "Ползунок - текст наложения"
+
+#: ../inc/widgets/instaram_slider.php:246 loco:5a56871a820ee964178b46b8
+msgid "Thumbnails"
+msgstr "Эскизы"
+
+#: ../inc/widgets/instaram_slider.php:247 loco:5a56871a820ee964178b46b9
+msgid "Thumbnails - Without Border"
+msgstr "Миниатюры - без рамки"
+
+#: ../inc/widgets/instaram_slider.php:252 loco:5a56871a820ee964178b46ba
+msgid "Number of Columns:"
+msgstr "Число столбцов:"
+
+#: ../inc/widgets/instaram_slider.php:254 loco:5a56871a820ee964178b46bb
+msgid "max is 10 ( only for thumbnails template )"
+msgstr "Максимум - 10 (только для шаблона эскизов)"
+
+#: ../inc/widgets/instaram_slider.php:258 loco:5a56871a820ee964178b46bc
+msgid "Image format"
+msgstr "Формат изображения"
+
+#: ../inc/widgets/instaram_slider.php:260 loco:5a56871a820ee964178b46bd
+msgid "Square - Cropped"
+msgstr "Площадь - обрезанный"
+
+#: ../inc/widgets/instaram_slider.php:261 loco:5a56871a820ee964178b46be
+msgid "Original - No Crop"
+msgstr "Оригинал - Без обрезания"
+
+#: ../inc/widgets/instaram_slider.php:263 loco:5a56871a820ee964178b46bf
+msgid ""
+"<strong>Square - Cropped</strong> - option will show square cropped images "
+"in 640x640 pixels. <br/><strong>Original - No Crop</strong> - will display "
+"the original user uploaded image size."
+msgstr ""
+"Площадь - Обрезка - опция отобразит квадратные обрезанные изображения в "
+"640x640 пикселей. Оригинал - Без обрезки - отобразит исходный размер "
+"загруженного изображения пользователя."
+
+#: ../inc/widgets/instaram_slider.php:266 loco:5a56871a820ee964178b46c0
+msgid "Order by"
+msgstr "Сортировать по"
+
+#: ../inc/widgets/instaram_slider.php:268 loco:5a56871a820ee964178b46c1
+msgid "Date - Ascending"
+msgstr "Дата - По возрастанию"
+
+#: ../inc/widgets/instaram_slider.php:269 loco:5a56871a820ee964178b46c2
+msgid "Date - Descending"
+msgstr "Дата - По убыванию"
+
+#: ../inc/widgets/instaram_slider.php:270 loco:5a56871a820ee964178b46c3
+msgid "Popularity - Ascending"
+msgstr "Популярность - По возрастанию"
+
+#: ../inc/widgets/instaram_slider.php:271 loco:5a56871a820ee964178b46c4
+msgid "Popularity - Descending"
+msgstr "Популярность - По убыванию"
+
+#: ../inc/widgets/instaram_slider.php:272 ../inc/widgets/postlist.php:80
+#: loco:5a56871a820ee964178b46c5
+msgid "Random"
+msgstr "случайный"
+
+#: ../inc/widgets/instaram_slider.php:277 loco:5a56871a820ee964178b46c6
+msgid "Link to"
+msgstr "Ссылка к"
+
+#: ../inc/widgets/instaram_slider.php:279
+#: ../inc/widgets/instaram_slider.php:1345 loco:5a56871a820ee964178b46c7
+msgid "Instagram Image"
+msgstr "Изображение Instagram"
+
+#: ../inc/widgets/instaram_slider.php:280 loco:5a56871a820ee964178b46c8
+msgid "Instagram Profile"
+msgstr "Профиль Instagram"
+
+#: ../inc/widgets/instaram_slider.php:281 loco:5a56871a820ee964178b46c9
+msgid "Locally Saved Image"
+msgstr "Локально сохраненное изображение"
+
+#: ../inc/widgets/instaram_slider.php:282 loco:5a56871a820ee964178b46ca
+msgid "Attachment Page"
+msgstr "Страница прикрепления"
+
+#: ../inc/widgets/instaram_slider.php:283 loco:5a56871a820ee964178b46cb
+msgid "Custom Link"
+msgstr "Пользовательская ссылка"
+
+#: ../inc/widgets/instaram_slider.php:289 loco:5a56871a820ee964178b46cc
+msgid "Custom link:"
+msgstr "Пользовательская ссылка:"
+
+#: ../inc/widgets/instaram_slider.php:291 loco:5a56871a820ee964178b46cd
+msgid ""
+"* use this field only if the above option is set to <strong>Custom "
+"Link</strong>"
+msgstr ""
+"используйте это поле, только если для параметра выше установлено значение "
+"<strong> Пользовательская ссылка </ strong>"
+
+#: ../inc/widgets/instaram_slider.php:307 loco:5a56871a820ee964178b46ce
+msgid "Advanced Image Options"
+msgstr "Дополнительные параметры изображения"
+
+#: ../inc/widgets/instaram_slider.php:309 loco:5a56871a820ee964178b46cf
+msgid "Image Link rel attribute"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:311 loco:5a56871a820ee964178b46d0
+msgid ""
+"Specifies the relationship between the current page and the linked website"
+msgstr "Задает связь между текущей страницей и связанным сайтом"
+
+#: ../inc/widgets/instaram_slider.php:314 loco:5a56871a820ee964178b46d1
+msgid "Image Link class"
+msgstr "Класс изображения"
+
+#: ../inc/widgets/instaram_slider.php:316 loco:5a56871a820ee964178b46d2
+msgid "Usefull if you are using jQuery lightbox plugins to open links"
+msgstr ""
+"Полезно, если вы используете плагины jQuery lightbox для открытия ссылок"
+
+#: ../inc/widgets/instaram_slider.php:318 loco:5a56871a820ee964178b46d3
+msgid "Disable Pinning:"
+msgstr "Отключить привязку:"
+
+#: ../inc/widgets/instaram_slider.php:321 loco:5a56871a820ee964178b46d4
+msgid "Disable pinning for Pinterest on all images from this widget!"
+msgstr ""
+"Отключите пиннинг для Pinterest на всех изображениях этого виджета!\n"
+
+#: ../inc/widgets/instaram_slider.php:325 loco:5a56871a820ee964178b46d5
+msgid "Advanced Slider Options"
+msgstr ""
+"Расширенные параметры слайдера\n"
+"\n"
+
+#: ../inc/widgets/instaram_slider.php:327 loco:5a56871a820ee964178b46d6
+msgid "Slider Navigation Controls:"
+msgstr ""
+"Элементы управления слайдером:\n"
+"\n"
+
+#: ../inc/widgets/instaram_slider.php:328 loco:5a56871a820ee964178b46d7
+msgid "Prev & Next"
+msgstr ""
+"\n"
+"Пред. И затем\n"
+"\n"
+
+#: ../inc/widgets/instaram_slider.php:329 loco:5a56871a820ee964178b46d8
+msgid "Dotted"
+msgstr "Пунктирный"
+
+#: ../inc/widgets/instaram_slider.php:330 loco:5a56871a820ee964178b46d9
+msgid "No Navigation"
+msgstr ""
+"Нет навигации\n"
+
+#: ../inc/widgets/instaram_slider.php:333 loco:5a56871a820ee964178b46da
+msgid "Slider Animation:"
+msgstr ""
+
+#: ../inc/widgets/instaram_slider.php:334 loco:5a56871a820ee964178b46db
+msgid "Slide"
+msgstr "Слайд"
+
+#: ../inc/widgets/instaram_slider.php:335 loco:5a56871a820ee964178b46dc
+msgid "Fade"
+msgstr "Стереть"
+
+#: ../inc/widgets/instaram_slider.php:338 loco:5a56871a820ee964178b46dd
+msgid "Number of words in caption:"
+msgstr "Количество слов в заголовке:"
+
+#: ../inc/widgets/instaram_slider.php:343 loco:5a56871a820ee964178b46de
+msgid "Slide Speed:"
+msgstr "Скорость слайдов:"
+
+#: ../inc/widgets/instaram_slider.php:345 loco:5a56871a820ee964178b46df
+msgid "milliseconds"
+msgstr "миллисекунды"
+
+#: ../inc/widgets/instaram_slider.php:346 loco:5a56871a820ee964178b46e0
+msgid "1000 milliseconds = 1 second"
+msgstr "1000 миллисекунд = 1 секунда"
+
+#: ../inc/widgets/instaram_slider.php:350 loco:5a56871a820ee964178b46e1
+msgid "Slider Text Description:"
+msgstr "Текст слайдера Описание:"
+
+#: ../inc/widgets/instaram_slider.php:352 ../inc/widgets/tweets.php:65
+#: loco:5a56871a820ee964178b46e2
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: ../inc/widgets/instaram_slider.php:353 loco:5a56871a820ee964178b46e3
+msgid "Time"
+msgstr "Время"
+
+#: ../inc/widgets/instaram_slider.php:354 loco:5a56871a820ee964178b46e4
+msgid "Caption"
+msgstr "Заголовок"
+
+#: ../inc/widgets/instaram_slider.php:356 loco:5a56871a820ee964178b46e5
+msgid ""
+"Hold ctrl and click the fields you want to show/hide on your slider. Leave "
+"all unselected to hide them all. Default all selected."
+msgstr ""
+"Удерживая Ctrl, щелкните поля, которые вы хотите отобразить / скрыть на "
+"слайдере. Оставьте все невыбранным, чтобы скрыть их все. По умолчанию "
+"выбрано все."
+
+#: ../inc/widgets/instaram_slider.php:362 loco:5a56871a820ee964178b46e6
+msgid "Shortcode of this Widget:"
+msgstr "Shortcode этого виджета:"
+
+#: ../inc/widgets/instaram_slider.php:364 loco:5a56871a820ee964178b46e7
+msgid ""
+"Use this shortcode in any page or post to display images with this widget "
+"configuration!"
+msgstr ""
+"Используйте этот короткий код на любой странице или странице, чтобы "
+"отображать изображения с этой конфигурацией виджета!"
+
+#: ../inc/widgets/instaram_slider.php:369 loco:5a56871a820ee964178b46e8
+msgid "Help us, help you!"
+msgstr "Помогите нам, помогите!"
+
+#: ../inc/widgets/instaram_slider.php:370 loco:5a56871a820ee964178b46e9
+msgid "Show \"Powered by Link\""
+msgstr "Показать \"Powered by Link\""
+
+#: ../inc/widgets/instaram_slider.php:373 loco:5a56871a820ee964178b46ea
+msgid ""
+"When enabled, the author is notified and a backlink website is visible at "
+"the bottom of the plugin. <br> <strong>If you enable this option you will "
+"have privileged support from our team!</strong>"
+msgstr ""
+"Когда включено, автор уведомляется, и в нижней части плагина отображается "
+"обратный веб-сайт. <br> <strong> Если вы включите этот параметр, вы получите "
+"привилегированную поддержку от нашей команды! </ strong>"
+
+#: ../inc/widgets/instaram_slider.php:555 loco:5a56871a820ee964178b46eb
+msgid "No images found! <br> Try some other hashtag or username"
+msgstr "Изображений не найдено! Попробуйте другие хэштег или имя пользователя"
+
+#: ../inc/widgets/instaram_slider.php:952 loco:5a56871a820ee964178b46ec
+msgid "Nothing to search for"
+msgstr "Ничего не найдено"
+
+#: ../inc/widgets/instaram_slider.php:1022 loco:5a56871a820ee964178b46ed
+msgid "No images found"
+msgstr "Изображений не найдено"
+
+#: ../inc/widgets/instaram_slider.php:1337 loco:5a56871a820ee964178b46ee
+msgid "Instagram Username"
+msgstr "Имя пользователя Instagram"
+
+#: ../inc/widgets/instaram_slider.php:1355 loco:5a56871a820ee964178b46ef
+msgid "Posted on Instagram"
+msgstr "Опубликовать в Instagram"
+
+#: ../inc/widgets/postlist.php:56 loco:5a56871a820ee964178b46f0
+msgid "Post List"
+msgstr "Почтовый список"
+
+#: ../inc/widgets/postlist.php:65 ../inc/widgets/tweets.php:69
+#: loco:5a56871a820ee964178b46f1
+msgid "Number Of Posts"
+msgstr "Количество сообщений"
+
+#: ../inc/widgets/postlist.php:69 loco:5a56871a820ee964178b46f2
+msgid "Post Order"
+msgstr "Почтовый заказ"
+
+#: ../inc/widgets/postlist.php:72 loco:5a56871a820ee964178b46f3
+msgid "Date"
+msgstr "Дата"
+
+#: ../inc/widgets/postlist.php:74 loco:5a56871a820ee964178b46f4
+msgid "Comment Count"
+msgstr "Количество комментариев"
+
+#: ../inc/widgets/postlist.php:77 loco:5a56871a820ee964178b46f5
+msgid "Views Count"
+msgstr "Количество просмотров"
+
+#: ../inc/widgets/social.php:68 loco:5a56871a820ee964178b46f6
+msgid "Social Profiles"
+msgstr "Социальные профили"
+
+#: ../inc/widgets/tweets.php:56 loco:5a56871a820ee964178b46f7
+msgid "Tweets"
+msgstr "твиты"
+
+#: ../index.php:6 ../page-templates/blog.php:11 loco:5a56871a820ee964178b46f8
+msgid "Blog Posts"
+msgstr "Сообщения в блоге"
+
+#: ../search.php:7 loco:5a56871a820ee964178b46f9
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для:% S"
+
+#: ../searchform.php:3 ../searchform.php:4 loco:5a56871a820ee964178b46fa
+msgid "Search for:"
+msgstr "Искать:"
+
+#: ../searchform.php:4 loco:5a56871a820ee964178b46fb
+msgid "Search ..."
+msgstr "Поиск ..."
+
+#: ../sidebar.php:2 loco:5a56871a820ee964178b46fc
+msgid "Site Sidebar"
+msgstr "Боковая панель сайта"
+
+#: ../single.php:22 loco:5a56871a820ee964178b46fd
+msgid "Post Navigation"
+msgstr "Сообщение"
+
+#: ../single.php:42 loco:5a56871a820ee964178b46fe
+msgid "Previous Post:"
+msgstr "Предыдущий пост:"
+
+#: ../single.php:69 loco:5a56871a820ee964178b46ff
+msgid "Next Post:"
+msgstr "Следующее сообщение:"
+
+#: ../single.php:136 loco:5a56871a820ee964178b4700
+msgid "Related Posts"
+msgstr "Похожие записи"
